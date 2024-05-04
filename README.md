@@ -7,12 +7,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/8oy07q"  />
+  <img height="300" src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif4.gif?fit=500%2C288&ssl=1"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/jesse.sv?igsh=MXNwaHdzeDg2c2lwYw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -26,9 +26,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesse-SV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesse-SV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesse-SV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
