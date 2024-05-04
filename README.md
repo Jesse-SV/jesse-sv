@@ -1,18 +1,22 @@
-<h2 align="center">Hello World</h2>
+<h1 align="center">Hello World</h1>
 
 ###
 
-<p align="center">I'm a 3rd year Computer Science student at Midwestern State University, looking to learn new technologies</p>
+<p align="left">Hi 👋, I'm Jessé! A Computer Science student from Brazil.</p>
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif4.gif?fit=500%2C288&ssl=1"  />
+<h6 align="left">🌱 Studying Computer Science at Universidade Estadual do Centro Oeste</h6>
+
+###
+
+<div align="left">
+  <img height="400" src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif4.gif?fit=500%2C288&ssl=1"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/jesse.sv?igsh=MXNwaHdzeDg2c2lwYw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
