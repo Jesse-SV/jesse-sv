@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 3rd year Computer Science student at Midwestern State University, looking to learn new technologies</p>
+<p align="center">I'm a 3rd year Computer Science student at Midwestern State University, looking to learn new technologies</p>
 
 ###
 
@@ -29,7 +29,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesse-SV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesse-SV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -49,11 +49,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jesse-SV/Jesse-SV/output/snake.svg" alt="Snake animation" />
 
 ###
