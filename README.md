@@ -7,7 +7,7 @@
 ###
 
 * 🌱 Studying Computer Science at Universidade Estadual do Centro Oeste.
-* 💬 I am 19 years old, currently living in Brazil. I have intermediate English.
+* 💬 I am 20 years old, currently living in Brazil. I have advanced English.
 
 ###
 
